@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(50, 14, 97);
+    font-size: 20px;
+    
+    
+}
+main{
+    color: rgb(5, 238, 207);
+   margin: 10px;
+}
+header {
+    color: rgb(243, 227, 10);
+    text-align: center;
+    
+   
+}
+footer p{
+    color: rgb(180, 207, 24);
+    border: 3px solid rgb(5, 252, 190);
+}
+a{
+    color: brown;
+      text-decoration: chocolate;
+      background-color: green;
+     border-radius: 10px ;
+     padding: 5px;
+}h1,h2{
+
+     text-align: center;
+}
+.suu{
+    height: 200px;width: 700px;
+}
+nav  {
+    text-align: center; }
+    nav a{
+  margin: 10px;
+    }
+    i{
+    text-align: center; font-size: 40px;
+    }
